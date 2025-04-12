@@ -2,7 +2,7 @@
 
 I’m Divyesh Lakkad
 
-🚀 A passionate and results-driven **Sr. Full Stack Java Engineer** with over **10 years** of experience designing and developing scalable enterprise applications. I've led large-scale projects across industries including insurance, retail, and logistics at companies like **Mercury Insurance**, **American Eagle**, and **U-Haul**.
+🚀 A passionate and results-driven **Sr. Full Stack Java Engineer** with over **9 years** of experience designing and developing scalable enterprise applications. I've led large-scale projects across industries including insurance, retail, and logistics at companies like **Mercury Insurance**, **American Eagle**, and **U-Haul**.
 
 ## 💻 About Me
 
@@ -43,6 +43,9 @@ I’m Divyesh Lakkad
 
 ## 🔍 What’s Next?
 
-I'm currently exploring opportunities to work on impactful backend/data infrastructure projects, especially those involving **cloud-native microservices**, **data engineering**, or **full-stack solutions** that drive business value.
+I’m currently seeking new opportunities as a **Java Developer**, **Full Stack Engineer**, **Back End Developer**, or **Database Engineer**—where I can apply my 9+ years of enterprise-level experience to solve complex challenges, build scalable systems, and contribute to high-impact teams. I'm especially interested in roles that leverage cloud technologies, microservices, and modern DevOps practices.
 
-Feel free to check out my repositories or connect with me for collaboration!
+Let’s connect and build something impactful together!
+
+
+
